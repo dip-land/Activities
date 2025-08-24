@@ -1,0 +1,28 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.15",
+  "apiVersion": 1,
+  "author": {
+    "id": "251580400097427456",
+    "name": "dipped."
+  },
+  "service": "Miruro",
+  "description": {
+    "en": "TODO"
+  },
+  "url": [
+    "miruro.tv",
+    "miruro.to",
+    "miruro.online",
+    "www.miruro.tv",
+    "www.miruro.to",
+    "www.miruro.online"
+  ],
+  "version": "1.0.0",
+  "logo": "https://i.imgur.com/000000.png",
+  "thumbnail": "https://i.imgur.com/000000.png",
+  "color": "#000000",
+  "category": "anime",
+  "tags": [
+    "anime"
+  ]
+}
